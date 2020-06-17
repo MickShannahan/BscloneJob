@@ -1,0 +1,18 @@
+button.col-3:hover {
+  background-color: rgb(255, 255, 255)!important;
+  box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, .15)!important;
+
+}
+
+.img-fluid {
+  transition: .5s ease;
+  filter: opacity(80%)
+
+}
+
+.img-fluid:hover {
+  transition: .5s ease;
+  filter: opacity(100%)
+  /* filter: 0px 0px 30px 5px rgba(0, 0, 0, 0)!important; */
+
+}
